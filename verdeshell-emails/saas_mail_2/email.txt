@@ -1,0 +1,88 @@
+Every tool your growing business needs. Start with one, scale with all.
+View in browser: {{VIEW_IN_BROWSER_URL}}
+
+VERDESHELL
+
+SaaS Suite Launch
+
+YOUR BUSINESS DESERVES A SMARTER SUITE.
+Every tool your growing business needs. Start with one, scale with all.
+
+Explore the Suite: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=hero_cta
+
+----------------------------------------
+ONE ECOSYSTEM
+EVERYTHING YOUR BUSINESS NEEDS
+
+Recruit Platform
+Applicant tracking and hiring, simplified.
+https://verdeshell.com/products/recruit?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_recruit
+
+Career Platform
+One profile. Every opportunity.
+https://verdeshell.com/products/career?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_career
+
+Verdeshell HRMS
+HR and payroll, built for India.
+https://verdeshell.com/products/hrms?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_hrms
+
+Verdeshell CRM
+Turn more leads into opportunities.
+https://verdeshell.com/products/crm?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_crm
+
+Verdeshell Inventory
+Every item, every location, under control.
+https://verdeshell.com/products/inventory?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_inventory
+
+Verdeshell Flow
+Sprints, roadmaps and goals in one place.
+https://verdeshell.com/products/flow?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_flow
+
+Pleisys Engage
+WhatsApp automation, without code.
+https://verdeshell.com/products/pleisys-engage?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=card_pleisys-engage
+
+More Coming Soon
+The ecosystem keeps growing.
+
+Explore All Products: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=explore_all
+
+----------------------------------------
+FEATURED
+MEET SMARTER. WORK BETTER.
+EchoIQ by Pleisys captures conversations, identifies speakers and turns discussions into actionable insights, so nothing gets lost after the call.
+
+Discover EchoIQ: https://verdeshell.com/products/echoiq?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=echoiq
+
+----------------------------------------
+CHOOSE YOUR PATH
+
+Explore the Full Suite: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=path_suite
+14-Day Free CRM Trial: https://verdeshell.com/products/crm?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=path_trial
+Book a Guided Demo: https://verdeshell.com/contact?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=path_demo
+
+----------------------------------------
+START WITH ONE. SCALE WITH ALL.
+Pick the solution you need today, and add more as you grow.
+
+Book a Demo: https://verdeshell.com/contact?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=cta_demo
+
+----------------------------------------
+VERDESHELL
+About Us: https://verdeshell.com/about?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=footer
+Products: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=footer
+Pricing: https://verdeshell.com/pricing?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=footer
+Contact Us: https://verdeshell.com/contact?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=footer
+
+LinkedIn: {{LINKEDIN_URL}}
+YouTube: {{YOUTUBE_URL}}
+Instagram: {{INSTAGRAM_URL}}
+X: {{X_URL}}
+
+Manage preferences: {{PREFERENCES_URL}}
+Unsubscribe: {{UNSUBSCRIBE_URL}}
+Privacy policy: https://verdeshell.com/privacy-policy?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch&utm_content=footer
+
+Verdeshell, Sector 58, Gurugram, Haryana | connect@verdeshell.com
+
+You're receiving this email because you subscribed to updates from Verdeshell or otherwise have an appropriate basis for receiving our communication.

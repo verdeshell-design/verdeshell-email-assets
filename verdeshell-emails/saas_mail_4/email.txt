@@ -1,0 +1,45 @@
+Every tool your growing business needs. Start with one, scale with all.
+View in browser: {{VIEW_IN_BROWSER_URL}}
+
+VERDESHELL
+
+YOUR BUSINESS DESERVES A SMARTER SUITE.
+Start with one. Scale with all.
+From hiring and HR to sales, inventory and project management, everything your growing business needs, in one connected ecosystem.
+
+Explore the Suite: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v4&utm_content=hero_cta
+
+----------------------------------------
+STILL RUNNING YOUR BUSINESS ON SCATTERED TOOLS?
+- Hiring lives in spreadsheets while payroll runs in a different app.
+- Leads slip through the cracks between sales follow-ups.
+- Your teams lose hours switching between tools that don't talk to each other.
+
+GET THE VERDESHELL SUITE FOR YOUR WHOLE TEAM
+14-day free CRM trial. No credit card required.
+Start Free Trial: https://verdeshell.com/products/crm?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v4&utm_content=trial
+
+----------------------------------------
+VERDESHELL IS DESIGNED TO HELP YOU:
+- Hire faster with applicant tracking, interviews and offers in one place.
+- Run payroll, attendance and compliance built for Indian businesses.
+- Turn more leads into customers with pipelines and WhatsApp follow-ups.
+- Plan sprints, track stock and keep every team moving in sync.
+
+Explore All Products: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v4&utm_content=explore_all
+
+----------------------------------------
+START WITH ONE. SCALE WITH ALL.
+
+LinkedIn: {{LINKEDIN_URL}}
+YouTube: {{YOUTUBE_URL}}
+Instagram: {{INSTAGRAM_URL}}
+X: {{X_URL}}
+
+Verdeshell, Sector 58, Gurugram, Haryana | connect@verdeshell.com
+(c) Verdeshell. All rights reserved.
+
+No longer want to receive these emails?
+Unsubscribe: {{UNSUBSCRIBE_URL}}
+Manage Preferences: {{PREFERENCES_URL}}
+Privacy Policy: https://verdeshell.com/privacy-policy?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v4&utm_content=footer

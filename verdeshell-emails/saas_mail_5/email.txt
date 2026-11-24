@@ -1,0 +1,91 @@
+Hiring, HR, sales, stock and projects, connected in one place. Start with one, scale with all.
+View in browser: {{VIEW_IN_BROWSER_URL}}
+
+VERDESHELL | Start with one. Scale with all.
+
+INTRODUCING THE VERDESHELL SUITE
+YOUR BUSINESS DESERVES A SMARTER SUITE.
+Stop stitching your business together with spreadsheets, chats and five different logins. Verdeshell brings hiring, payroll, sales, inventory and projects into one connected suite, so every team works from the same truth.
+
+Explore the Suite: https://verdeshell.com/products?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=hero_cta
+Start Free Trial: https://verdeshell.com/products/crm?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=hero_trial
+
+----------------------------------------
+THE SUITE AT A GLANCE: Everything you need. Nothing you don't.
+- Connected platforms: 8
+- Built for: HR, Sales, Ops, Engineering
+- Payroll compliance: PF, ESI, PT, TDS ready
+- CRM editions: Sales, Interior, Nutrition, Service
+- Start with: 14-day free CRM trial
+
+----------------------------------------
+8 PRODUCTS, ONE ECOSYSTEM: One suite. Every team. Real results.
+
+Recruit Platform: Hire the right people, faster.
+Job approvals, resume parsing and one clear hiring pipeline.
+https://verdeshell.com/products/recruit?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_recruit
+
+Career Platform: One profile. Every opportunity.
+A free job portal and app where candidates apply and track every application.
+https://verdeshell.com/products/career?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_career
+
+Verdeshell Hrms: Run payroll without the panic.
+India-ready PF, ESI, PT and TDS, with biometric and geo-fenced attendance.
+https://verdeshell.com/products/hrms?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_hrms
+
+Verdeshell Crm: Turn more leads into revenue.
+Built for Sales, Interior, Nutrition and Service, with WhatsApp alerts.
+https://verdeshell.com/products/crm?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_crm
+
+Verdeshell Inventory: Know exactly what's in stock.
+Scan-based stock control across warehouses, down to the bin.
+https://verdeshell.com/products/inventory?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_inventory
+
+Verdeshell Flow: Deliver projects on time.
+Boards, sprints, roadmaps and OKRs in one shared workspace.
+https://verdeshell.com/products/flow?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_flow
+
+Pleisys Engage: WhatsApp automation, no code.
+Campaigns, alerts and OTP flows, built visually on WhatsApp.
+https://verdeshell.com/products/pleisys-engage?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_pleisys-engage
+
+Echoiq By Pleisys: Leave every meeting with a plan.
+AI transcripts, summaries and action items, encrypted with AES-256.
+https://verdeshell.com/products/echoiq?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=card_echoiq
+
+More coming soon: the Verdeshell ecosystem keeps growing.
+
+----------------------------------------
+SPOTLIGHT: VERDESHELL HRMS
+Payroll day, minus the panic.
+From onboarding to full and final settlement, HRMS runs your entire employee lifecycle, built around Indian compliance.
+- PF, ESI, PT and TDS, calculated for you
+- Biometric, face and geo-fenced attendance
+- Onboarding to full and final settlement
+- Leave, attendance and payroll in one place
+Explore HRMS: https://verdeshell.com/products/hrms?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=spotlight_cta
+
+Your data stays yours. Role-based access, audit logs and encrypted meeting data keep every team's information safe and in your control.
+
+----------------------------------------
+WE'RE HERE TO HELP
+Not sure where to start? Our team will map the right Verdeshell products to your business and get you set up.
+Book a Demo: https://verdeshell.com/contact?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=help_demo
+Talk to Sales: https://verdeshell.com/contact?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=help_sales
+
+Start with one. Scale with all.
+Start Free Trial: https://verdeshell.com/products/crm?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=cta_trial
+
+----------------------------------------
+VERDESHELL
+Verdeshell builds connected business software for growing companies: hiring, HR and payroll, sales, inventory, projects, meetings and WhatsApp automation, all in one suite.
+
+LinkedIn: {{LINKEDIN_URL}} | X: {{X_URL}} | YouTube: {{YOUTUBE_URL}} | Instagram: {{INSTAGRAM_URL}}
+
+You're receiving this email because you subscribed to updates from Verdeshell or otherwise have an appropriate basis for receiving our communication.
+Unsubscribe: {{UNSUBSCRIBE_URL}}
+Manage Preferences: {{PREFERENCES_URL}}
+Privacy Policy: https://verdeshell.com/privacy-policy?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=footer
+Terms of Service: https://verdeshell.com/terms?utm_source=email&utm_medium=email&utm_campaign=saas_suite_launch_v5&utm_content=footer
+
+(c) Verdeshell. All rights reserved. Sector 58, Gurugram, Haryana | connect@verdeshell.com
